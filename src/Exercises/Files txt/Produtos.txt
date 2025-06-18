@@ -1,5 +1,102 @@
-Picanha Nobre 124,00
-Tiras de Alcatra 98,00
-Costela sem Osso 76,00
-Contra Defumado 47,80
-Filé Mignon VIP 102,50
+Fraldinha Bovina 89,90  
+Cupim Suíno 56,70  
+Maminha Grill 94,30  
+Alcatra Especial 97,20  
+Coxão Mole Angus 84,60  
+Ponta de Peito 65,40  
+Filé de Costela 106,50  
+Picanha Premium 132,00  
+Lombo Suíno Temperado 49,90  
+Linguiça Artesanal 36,00  
+Costelinha Barbecue 73,20  
+Bife de Chorizo 99,80  
+Ancho Grelhado 112,00  
+Cordeiro Patagônico 158,00  
+Carne Moída Prime 54,90  
+Carré de Cordeiro 146,00  
+Pernil Assado 59,50  
+Sobrecoxa Desossada 39,00  
+Filé de Frango Light 32,90  
+Asa Crocante 28,50  
+Tulipa Grelhada 35,20  
+Strogonoff Bovino 74,30  
+Picanha Suína 66,10  
+T-bone Maturado 119,00  
+Porterhouse Angus 139,00  
+Filet Wellington 128,00  
+Músculo Cozido 44,10  
+Paleta Suína 48,20  
+Lagarto ao Vinho 68,70  
+Ossobuco Bovino 53,30  
+Costela Gaúcha 87,00  
+Alcatra Maturada 92,80  
+Peito de Frango Grelhado 31,70  
+Moída Suína Temperada 41,00  
+Cupim Bovino Premium 76,40  
+Coração de Frango 26,90  
+Ripa Bovina 58,80  
+Filé de Tilápia 42,50  
+Bacon Defumado Artesanal 39,90  
+Picanha Angus 144,00  
+Contra Filé Bovino 93,20  
+Costela Minga 79,00  
+Patinho Light 82,60  
+Moída Mista 51,00  
+Tiras de Frango 33,10  
+Frango a Passarinho 29,50  
+Filé Suíno 46,90  
+Linguiça Toscana 37,80  
+Peito Bovino Grelhado 69,90  
+Pernil de Cordeiro 142,00  
+Filé de Salmão 116,00  
+Picanha Argentina 149,00  
+Costela 3 Ripas 82,00  
+Coxinha da Asa 30,20  
+Lombo Canadense 55,10  
+Chorizo Maturado 105,00  
+Paleta de Cordeiro 138,00  
+Coxão Duro 74,60  
+Tiras de Maminha 88,40  
+Bisteca Suína 44,00  
+Bife Rolê 61,30  
+Peito Suíno 50,90  
+Alcatra Grill 96,20  
+Frango Empanado 34,60  
+Contra Filé Especial 98,10  
+Picanha Red 127,00  
+Linguiça Defumada 40,00  
+Tira de Costela 85,00  
+Maminha Angus 109,00  
+Carne Seca 87,30  
+Frango Inteiro 24,80  
+Ponta de Alcatra 95,50  
+Lagarto Assado 66,70  
+Músculo Bovino 47,90  
+Filé de Peixe Branco 37,60  
+Picanha Ouro 135,00  
+Costelinha Suína 71,20  
+Frango Desossado 36,70  
+Filé Duplo 92,00  
+Moída de Fraldinha 60,90  
+Costela no Bafo 81,40  
+Tiras de Cupim 68,20  
+Maminha na Manteiga 99,30  
+Fraldinha Grill 90,70  
+Linguiça Picante 38,00  
+Alcatra Grelhada 93,50  
+Paleta Bovina 62,80  
+Picanha Maturada 141,00  
+Bife de Patinho 79,60  
+Filé Mignon Black 108,00  
+Frango ao Molho 33,80  
+Linguiça de Frango 34,10  
+Coxão Mole Grelhado 86,90  
+Picanha do Chef 137,00  
+Cupim ao Forno 72,50  
+Assado de Tira 96,00  
+Costela Bovina Premium 89,20  
+Filé de Merluza 40,50  
+Carne Suína Temperada 52,90  
+Picanha na Brasa 130,00  
+Peito Bovino Recheado 73,00  
+Moída Especial 58,20

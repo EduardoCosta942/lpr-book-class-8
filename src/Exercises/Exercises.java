@@ -28,7 +28,7 @@ public class Exercises {
     }
 
 //     Task 2:
-    public static String[] product(File archiveAddress, int productCode) throws IOException {
+    public static String[] product(File archiveAddress, int productCode) throws IOException, ArrayIndexOutOfBoundsException {
         // Instantiating Scanner and declaring vars:
         Scanner input = new Scanner(archiveAddress);
         String line = "";
@@ -57,7 +57,7 @@ public class Exercises {
             line = matcher.replaceAll("@$1.$2"); // Using regex to identify the double value (by parameter as @) and updating line
 
             // Splitting the value of the line, storing at values
-            values[lineIndex] = Double.parseDouble(line.split("@")[line.split("@").length -1].trim());
+            values[lineIndex] = Double.parseDouble(line.split("@")[1].trim());
 
             // Creating substring of the name, storing at names
             names[lineIndex] = line.substring(0, line.indexOf("@"));
