@@ -53,6 +53,12 @@ public class Exercises {
         while (input.hasNextLine()) {
             // Preparing the line:
             line = input.nextLine();
+
+            // Validating if there is the symbol "@" at the line:
+            for (char letter:line.toCharArray()) {
+                if (letter == '@') throw new IllegalArgumentException("Invalid Line. Must not contain: @");
+            }
+
             matcher = doubleAsString.matcher(line);
             line = matcher.replaceAll("@$1.$2"); // Using regex to identify the double value (by parameter as @) and updating line
 
@@ -65,6 +71,6 @@ public class Exercises {
             lineIndex++; // Updating lineIndex
         }
         input.close(); // Closing input
-        return new String[]{names[productCode], String.valueOf(values[productCode])};
+        return new String[]{names[productCode], "R$" + String.valueOf(values[productCode])};
     }
 }
