@@ -71,6 +71,6 @@ public class Exercises {
             lineIndex++; // Updating lineIndex
         }
         input.close(); // Closing input
-        return new String[]{names[productCode], "R$" + String.valueOf(values[productCode])};
-    }
+        return new String[]{names[productCode], "R$" + values[productCode]};
+  }
 }

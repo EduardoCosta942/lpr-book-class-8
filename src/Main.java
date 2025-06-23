@@ -10,9 +10,9 @@ public class Main {
         File file = new File("src/Exercises/Files txt/Produtos.txt");
 
         try{
-            System.out.println(Arrays.toString(Exercises.product(file, 9)));
-        } catch (IOException | ArrayIndexOutOfBoundsException ioeAiobe) {
-            System.out.println("An error occurred: " + ioeAiobe);
+            System.out.println(Arrays.toString(Exercises.product(file, 20)));
+        } catch (IOException | ArrayIndexOutOfBoundsException ioe) {
+            System.out.println("An error occurred: " + ioe);
         }
     }
 } 
